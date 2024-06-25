@@ -1,4 +1,4 @@
-## Hello
+## Hello!
 
 I'm **Ilyas Boudhaine**, a Computer Science student from Morocco at Mohammed VI Polytechnic University. I'm passionate about AI, solving complex problems, and creating original software solutions.
 
